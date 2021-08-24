@@ -1,4 +1,4 @@
-<img src="https://media-exp1.licdn.com/dms/image/C4D16AQFKbpl7weX4PA/profile-displaybackgroundimage-shrink_350_1400/0/1617217192094?e=1629331200&v=beta&t=TKYjmlTTx398Xe2K5Vg2sM-g94sLTmOK1v8jqpKoyOk">
+<img src="https://media-exp1.licdn.com/dms/image/C4D16AQFKbpl7weX4PA/profile-displaybackgroundimage-shrink_350_1400/0/1617217192094?e=1635379200&v=beta&t=06DcuNihv7_kMXDcZt43816uQ1fM8PfZddlARVQ2wDc">
 
 ### Olá! 👋
 Meu nome é **Gabriel Frameschi** e sou estudante na área de tecnologia. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na UniToledo Araçatuba.
