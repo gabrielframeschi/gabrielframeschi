@@ -1,4 +1,4 @@
-<img src="https://media-exp1.licdn.com/dms/image/C4D16AQGCV-1S0hAeXQ/profile-displaybackgroundimage-shrink_200_800/0/1645243688582?e=1652313600&v=beta&t=5bqKKcrSGZQiI_uDV6xzRP5VANyBYBn3KEMErEa8Kz8">
+<img width="100%" src="https://media-exp1.licdn.com/dms/image/C4D16AQGCV-1S0hAeXQ/profile-displaybackgroundimage-shrink_200_800/0/1645243688582?e=1652313600&v=beta&t=5bqKKcrSGZQiI_uDV6xzRP5VANyBYBn3KEMErEa8Kz8">
 
 ## Hello There! 👋
 Hi! I'm a Brazilian Front-end Developer interested in creating amazing and optimized websites and applications.
