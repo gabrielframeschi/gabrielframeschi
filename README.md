@@ -4,8 +4,8 @@
 Hi! I'm a Brazilian Front-end Developer interested in creating amazing and optimized websites and applications.
 - 🔍 Interested in JavaScript development ecosystem and front-end tech.
 - 💼 Working as a .NET and JavaScript developer at Softline.
-- 🌱 Currently learning Vanilla JavaScript, Data Structure and Agile Methods.
-- 📚 Reading ≪ HTML and CSS ≫.
+- 🌱 Currently learning Vanilla JavaScript, React and Data Structure.
+- 📚 Reading ≪ HTML and CSS ≫ by Jon Duckett.
 - 💡 Also, an AR/VR enthusiast.
 
 ## More Info
