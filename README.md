@@ -6,7 +6,7 @@ Hi! I'm a Brazilian Front-end Developer interested in creating amazing and optim
 - 💼 Working as a JavaScript and .NET developer at Softline.
 - 🌱 Currently learning Vanilla JavaScript, React and Data Structure.
 - 📚 Reading ≪ Learning JavaScript Data Structures and Algorithms ≫ by Loiane Groner.
-- 🎮 Also, a Overwatch player 🙂.
+- 🎮 Also, a huge Overwatch fan 🙂.
 
 ## More Info
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabrielframeschi/)
