@@ -3,10 +3,10 @@
 ## Hello There! 👋
 Hi! I'm a Brazilian Front-end Developer interested in creating amazing and optimized websites and applications.
 - 🔍 Interested in JavaScript development ecosystem and front-end tech.
-- 💼 Working as a .NET and JavaScript developer at Softline.
+- 💼 Working as a JavaScript and .NET developer at Softline.
 - 🌱 Currently learning Vanilla JavaScript, React and Data Structure.
-- 📚 Reading ≪ HTML and CSS ≫ by Jon Duckett.
-- 💡 Also, an AR/VR enthusiast.
+- 📚 Reading ≪ Learning JavaScript Data Structures and Algorithms ≫ by Loiane Groner.
+- 🎮 Also, a Overwatch player 🙂.
 
 ## More Info
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabrielframeschi/)
