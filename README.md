@@ -1,10 +1,10 @@
-<img width="100%" src="https://github.com/framesgabriel/framesgabriel/blob/main/img/banner-linkedin.jpg">
+<img align="right" height="400em" src="https://github.com/framesgabriel/framesgabriel/blob/main/img/card-github.png">
 
 ## Hello There! 👋
 Hi! I'm a Brazilian Front-End Developer interested in creating amazing and optimized websites and applications.
-- 🔍 Interested in JavaScript development ecosystem and client-side tech.
 - 💼 Working as a Front-End Developer at Verum.
-- 🌱 Currently learning React.js and TypeScript.
+- 🌱 I'm currently learning React.js and TypeScript.
+- 🕑 I have.
 - 📚 Reading ≪ Clean Code ≫ by Robert C. Martin.
 - 🪐 Also, a huuuge Star Wars fan 🙂.
 
