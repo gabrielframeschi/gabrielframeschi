@@ -1,4 +1,4 @@
-<img align="right" height="500em" src="https://github.com/framesgabriel/framesgabriel/blob/main/img/card-github.png">
+<img align="right" height="500em" style="margin-bottom: 20px" src="https://github.com/framesgabriel/framesgabriel/blob/main/img/card-github.png">
 
 <h1 align="left">Hello There! 👋</h1>
 
