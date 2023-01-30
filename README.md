@@ -9,7 +9,7 @@
 
 <ul align="left">
   <li>💼 Working as a Front-End Developer at Verum.</li>
-  <li>🌱 I'm currently learning React.js and TypeScript.</li>
+  <li>🌱 I'm currently learning React and React Native.</li>
   <li>📚 Reading ≪ Clean Code ≫ by Robert C. Martin.</li>
   <li>🪐 Also, a huuuge Star Wars fan 🙂.</li>
 </ul>
