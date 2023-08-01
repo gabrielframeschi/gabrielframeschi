@@ -8,9 +8,9 @@
 <p align="left">Hi! I'm a Brazilian Front-End Developer interested in creating amazing and optimized websites and applications.</p>
 
 <ul align="left">
-  <li>💼 Working as a Front-End Developer at Verum.</li>
-  <li>🌱 I'm currently learning React and React Native.</li>
-  <li>📚 Reading ≪ Clean Code ≫ by Robert C. Martin.</li>
+  <li>💼 Working as a Middle Front-End Developer at CantuStore.</li>
+  <li>🌱 I'm currently learning Next.js and React Native.</li>
+  <li>📚 Studing UX/UI design at Coderhouse.</li>
   <li>🪐 Also, a huuuge Star Wars fan 🙂.</li>
 </ul>
 
