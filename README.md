@@ -10,7 +10,7 @@
 <ul align="left">
   <li>💼 Working as a Middle Front-End Developer at CantuStore.</li>
   <li>🌱 I'm currently learning Next.js and UX Design.</li>
-  <li>📚 Studing UX/UI design at Coderhouse.</li>
+  <li>📚 Studing Figma at Coderhouse.</li>
   <li>🪐 Also, a huuuge Star Wars fan 🙂.</li>
 </ul>
 
